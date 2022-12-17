@@ -4,6 +4,5 @@
 
 <h4>Items are stored at LocalStoage</h4>
 <h4>BootStrap is used for CSS</h4>
-<h4>BootStrap is used for CSS</h4>
 
 ![](screen.gif)
